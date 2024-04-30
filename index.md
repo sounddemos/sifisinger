@@ -7,7 +7,9 @@
 
 ![arch](images/SiFiSinger.drawio.png)
 <br>
-
+<p style="color: black; font-style: italic; text-align: center;">
+    （We apologize for an oversight in the camera-ready version of our paper. A minor error occurred in Fig. 1 of the document, where the position of the gradient cutoff symbol was incorrect. This has now been corrected in the figure displayed on this webpage.）
+</p>
 <table align="center">
   <thead>
     <tr>
