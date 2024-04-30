@@ -1,4 +1,4 @@
-# <center> SiFiSinger: Source-filter based Singing Voice Synthesizer with Variational Autoencoder and Adversarial Learning</center>
+# <center> SiFiSinger: A High-Fidelity End-to-End Singing Voice Synthesizer Based on Source-Filter Model</center>
 <br>
 
 ## Abstract	
